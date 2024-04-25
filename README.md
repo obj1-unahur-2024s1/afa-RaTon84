@@ -26,4 +26,7 @@ Asumir que se conocen los valores no específicados (por ejemplo, el alquiler de
 4)	Agregar tu jugador favorito y hacerle un homenaje en algún estadio. 
 5)	Hacer los test correspondientes
 
-
+messi pop 98%
+precioentrada 10.000
+contidadDeEntradas = capacidad *0.98
+gastosFijo = 10.000.000 + alquilerEstadio
